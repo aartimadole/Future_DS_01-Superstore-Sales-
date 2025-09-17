@@ -61,7 +61,7 @@ This dashboard enables:
 2 Deeper insights into top-performing categories, states, and subcategories
  
 ### 🖼️ Dashboard Preview 
-(https://github.com/aartimadole/Future_DS_01-Superstore-Sales-/blob/d694445699fc672b925b09633ef9fb8a02b19eb1/Superstore_future_intern/Dashboard%20image.png)
+<img width="857" height="483" alt="Dashboard image" src="https://github.com/user-attachments/assets/334f6d51-6bdf-4941-861e-2a3554678157" />
 
 🙏 Special Thanks
 
