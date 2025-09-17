@@ -55,16 +55,15 @@ The dashboard provides **interactive filters** (by year, month, region, category
 
 ---
 
-Filters and Slicers:
+**Filters and Slicers**
 
-Dynamic filters applied to KPIs for accurate metric reporting
-
-Month and Quarter slicers for temporal analysis
+-Dynamic filters applied to KPIs for accurate metric reporting
+-Month and Quarter slicers for temporal analysis
 
 ---
-💡 Purpose
+##💡 Purpose
 
-This dashboard enables:
+**This dashboard enables**
 
 1 Real-time tracking of ecommerce metrics
 
@@ -75,6 +74,6 @@ This dashboard enables:
 <img width="857" height="483" alt="Dashboard image" src="https://github.com/user-attachments/assets/334f6d51-6bdf-4941-861e-2a3554678157" />
 
 ---
-🙏 Special Thanks
+##🙏 Special Thanks
 
 A special thank you to Future Interns Team for providing the opportunity to work on a real-world project and gain valuable experience in building business intelligence solutions.
