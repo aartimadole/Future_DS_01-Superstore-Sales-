@@ -4,6 +4,13 @@
 This project was developed during my internship to analyze **E-commerce sales data** using Power BI.  
 The goal was to help business owners and decision-makers quickly understand:
 
+ What I Did | Why It Matters |
+|------------|----------------|
+| **Data Cleaning in Excel** – trimmed text fields, removed duplicates, fixed date formats, handled missing values | Ensures visuals & metrics are accurate and reliable |
+| **Calculated Metrics in Power BI** – total sales, profit margins, average sales per order, top-5 Product/Customer rankings, YoY & YTD growth | Helps track performance, set goals, and identify winners/weak spots |
+| **Visualization & Storytelling** – bar charts, maps, tables, slicers for year/region | Makes complex data easy to understand and act upon |
+
+---
 - ✅ Best-selling products  
 - ✅ Sales trends (monthly/seasonal peaks)  
 - ✅ Revenue contribution by categories and regions  
@@ -39,11 +46,12 @@ The dashboard provides **interactive filters** (by year, month, region, category
 ---
 🧩 Features & Visualizations
 
-🛠️ Tools & Technologies Used
+## 👀 Why This Dashboard is Useful
 
-**Power BI**: Data modeling, DAX calculations, interactive dashboards
-
-**Excel / CSV Data Source**: Cleaned and transformed for analysis
+- Makes it easy to spot **growth opportunities** and underperformers  
+- Helps benchmark performance over time (YoY, YTD)  
+- Supports decisions around product mix, customer focus, regional strategy  
+- Transparent view of how discounts and costs affect profitability  
 
 ---
 
